@@ -1,0 +1,9 @@
+{	
+
+	"breakfast": [
+		{"name": "Sandwitch", "price": 10,  "calories": 180 },
+        {"name": "Burger", "price": 12,  "calories": 240 },
+        {"name": "Waffle", "price": 8,  "calories": 160 }
+		
+	]	
+}

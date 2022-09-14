@@ -1,0 +1,8 @@
+{	
+	"lunch": [
+		{"name": "Beef noodle", "price": 15,  "calories": 300 },
+        {"name": "Pizza", "price": 11,  "calories": 320 },
+        {"name": "fried rice", "price": 20,  "calories": 360 }
+		
+	]	
+}

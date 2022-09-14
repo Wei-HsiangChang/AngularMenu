@@ -1,0 +1,8 @@
+{	
+	"dinner": [
+		{"name": "hot pot", "price": 20,  "calories": 380 },
+        {"name": "steak", "price": 35,  "calories": 420 },
+        {"name": "spaghetti", "price": 22,  "calories": 350 }
+		
+	]	
+}
